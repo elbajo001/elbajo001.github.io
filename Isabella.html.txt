@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+<head>
+<meta charset=utf-8 />
+<title>Zorros Comunes Privativos</title>
+  </head>
+<body>
+  <h1 align="center"> TRIBU ZORROS COMUNES PRIVATIVOS </h1>
+  <h2 align="center" class="text-danger"> Isabella Peña </h2>
+    <img src="https://i.pinimg.com/originals/ae/24/6e/ae246ef05e18790daec2cc6955242292.jpg"  height="900"
+  width="1800">
+  <h3>
+   <a href="index.html"> Regresar a la pagina principal </a> 
+  </h3>
+  
+</body>
+</html>
